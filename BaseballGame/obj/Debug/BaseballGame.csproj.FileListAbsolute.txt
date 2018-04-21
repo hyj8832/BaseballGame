@@ -1,0 +1,7 @@
+C:\Users\Mirim\source\repos\BaseballGame\BaseballGame\bin\Debug\BaseballGame.exe.config
+C:\Users\Mirim\source\repos\BaseballGame\BaseballGame\bin\Debug\BaseballGame.exe
+C:\Users\Mirim\source\repos\BaseballGame\BaseballGame\bin\Debug\BaseballGame.pdb
+C:\Users\Mirim\source\repos\BaseballGame\BaseballGame\obj\Debug\BaseballGame.csprojResolveAssemblyReference.cache
+C:\Users\Mirim\source\repos\BaseballGame\BaseballGame\obj\Debug\BaseballGame.csproj.CoreCompileInputs.cache
+C:\Users\Mirim\source\repos\BaseballGame\BaseballGame\obj\Debug\BaseballGame.exe
+C:\Users\Mirim\source\repos\BaseballGame\BaseballGame\obj\Debug\BaseballGame.pdb
